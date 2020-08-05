@@ -5,7 +5,7 @@ header-img: assets/img/home-bg.jpg
 email: heleiqiu@gmail.com
 description: "勇当领头羊，敢做先飞雁"
 keyword: "贺磊, heleiqiu, @heleiqiu, 贺磊的博客, Helei Qiu's Blog, 博客, 个人网站, 人工智能"
-url: "https://heleiqiu.gitee.io"              # your host, for absolute URL
+url: "https://heleiqiu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
