@@ -1,0 +1,12 @@
+---
+layout: page
+title: "About"
+description: "追寻梦想"
+header-img: "assets/img/about-bg.jpg"
+multilingual: true
+---
+
+<div class="zh post-container">
+    {% capture about_zh %}{% include about.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
